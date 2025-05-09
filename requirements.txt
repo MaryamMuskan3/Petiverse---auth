@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+bcrypt
+jet
+PyJWT
+pydantic
+python-multipart
+python-jose[cryptography]
